@@ -87,6 +87,7 @@ public class DisplayShape {
                             }
                             break;
                     }
+                    break;
                 case 3:
                     System.out.println("Enter the side:");
                     int side = scanner.nextInt();
